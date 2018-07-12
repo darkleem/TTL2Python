@@ -16,13 +16,12 @@
 * spawn → ptyprocess → pexpect 순서로 설치<br/>
 ( 압축 해제한 폴더 내의 setup.py를 이용하여 설치, (명령 예) python setup.py install )
 <br/>
-<br/>
 
 * 중요 : launcher_ttl.py와 ttl폴더가 같은 위치에 존재해야 합니다.
 * ttl 폴더 내에 .ttl(teraterm macro) 파일 들을 넣어 사용하면 됩니다.
 * python launcher_ttl.py 로 실행하면, ttl폴더에 든 목록이 출력됩니다.
 * 이후 원하는 것의 번호를 입력하고 Enter를 실행하면 동작합니다.
-![manual](TTL2Python/img/manual.png)
+![manual](/img/manual.png)
 ## [참고]
 
 * Source : [Link](https://github.com/darkleem/TTL2Python)
