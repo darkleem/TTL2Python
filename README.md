@@ -25,7 +25,7 @@ Teraterm macro -> Python
 * ttl 폴더 내에 .ttl(teraterm macro) 파일 들을 넣어 사용하면 됩니다.
 * python launcher_ttl.py 로 실행하면, ttl폴더에 든 목록이 출력됩니다.
 * 이후 원하는 것의 번호를 입력하고 Enter를 실행하면 동작합니다.
-
+![menu](/img/manual.jpg)
 
 ## [참고]
 
