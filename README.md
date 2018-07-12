@@ -17,10 +17,10 @@ Teraterm macro -> Python
 * [python 설치](https://wikidocs.net/8#_2)
 * pip or easy_install 사용이 가능하다면 [Link](https://pexpect.readthedocs.io/en/stable/install.html#requirements)와 같이 설치
 * 수동 설치의 경우 첨부된 Setup의 tar 파일들의 압축을 해제
-* spawn → ptyprocess → pexpect 순서로 설치
-  ( 압축 해제한 폴더 내의 setup.py를 이용하여 설치, (명령 예) python setup.py install )
-
-
+* spawn → ptyprocess → pexpect 순서로 설치<br>
+( 압축 해제한 폴더 내의 setup.py를 이용하여 설치, (명령 예) python setup.py install )
+<br>
+<br>
 * 중요 : launcher_ttl.py와 ttl폴더가 같은 위치에 존재해야 합니다.
 * ttl 폴더 내에 .ttl(teraterm macro) 파일 들을 넣어 사용하면 됩니다.
 * python launcher_ttl.py 로 실행하면, ttl폴더에 든 목록이 출력됩니다.
